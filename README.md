@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/minset3489](https://github.com/minset3489)
 
-- 💬 Ask me about **Vue.js and Nuxt.js**
+- 💬 Ask me about **React, Next, Vue.js and Nuxt.js**
 
 - 📫 How to reach me **minn.set@gmail.com**
 
