@@ -9,8 +9,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/min-set-8858711aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="min-set-8858711aa" height="30" width="40" /></a>
 <a href="https://fb.com/minset" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minset" height="30" width="40" /></a>
-<a href="https://line.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/line.svg" alt="line" height="30" width="40" /></a>
-<a href="viber://chat?number=+66621486066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/viber.svg" alt="viber" height="30" width="40" /></a>
+<a href="https://line.me/ti/p/~minset3489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/line.svg" alt="line" height="30" width="40" /></a>
+<a href="viber://add?number=+66621486066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/viber.svg" alt="viber" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
