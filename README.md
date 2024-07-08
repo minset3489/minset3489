@@ -7,12 +7,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/min-set-8858711aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="min-set-8858711aa" height="30" width="40" /></a>
-<a href="https://fb.com/minset" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minset" height="30" width="40" /></a>
-<a href="https://line.me/ti/p/~minset3489" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg" alt="line" height="30" width="40" /></a>
-<a href="viber://add?number=+66621486066" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Viber/Viber-Icon-Outlined-Purple%26White-Dark-Background-Logo.wine.svg" alt="viber" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/min-set-8858711aa" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="min-set-8858711aa" height="30" width="40" />
+</a>
+<a href="https://fb.com/minset" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minset" height="30" width="40" />
+</a>
+<a href="https://line.me/ti/p/~minset3489" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg" alt="line" height="30" width="40" />
+</a>
+<a href="viber://add?number=+66621486066" target="blank">
+  <img align="center" src="https://www.logo.wine/a/logo/Viber/Viber-Icon-Purple-Logo.wine.svg" alt="viber" height="50" width="50" />
+</a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -26,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactnative" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/0*Qup3L7adSA8iZO_R.png" alt="reactnative" width="60" height="40"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/>
