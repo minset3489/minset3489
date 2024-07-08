@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mr. Min Set</h1>
+<h1 align="center">Hi 👋, I'm Min Set</h1>
 <h3 align="center">A passionate frontend developer from Myanmar, currently residing in Thailand.</h3>
 
 - 💬 Ask me about **React, Next.js, Vue.js, and Nuxt.js**
