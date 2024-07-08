@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mr. Min Set</h1>
-<h3 align="center">A passionate frontend developer from Myanmar, currently in Thailand.</h3>
+<h3 align="center">A passionate frontend developer from Myanmar, currently residing in Thailand.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minset3489&label=Profile%20views&color=0e75b6&style=flat" alt="minset3489" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minset3489" alt="minset3489" /></a> </p>
-
-- 🌱 I’m currently learning **Vue.js and Nuxt.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/minset3489](https://github.com/minset3489)
 
 - 💬 Ask me about **React, Next, Vue.js and Nuxt.js**
 
