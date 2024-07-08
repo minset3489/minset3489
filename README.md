@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minset3489" alt="minset3489" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/minset93177837" target="blank"><img src="https://img.shields.io/twitter/follow/minset93177837?logo=twitter&style=for-the-badge" alt="minset93177837" /></a> </p>
-
 - 🌱 I’m currently learning **Vue.js and Nuxt.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/minset3489](https://github.com/minset3489)
